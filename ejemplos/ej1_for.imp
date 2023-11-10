@@ -1,0 +1,2 @@
+var int p;
+for x : 5, 1 do print(p) endfor
