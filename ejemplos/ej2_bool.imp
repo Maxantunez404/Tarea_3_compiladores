@@ -5,4 +5,4 @@ m = v and f;
 a = v or f;
 
 print(m);
-print(a);
+print(a)
