@@ -1,8 +1,7 @@
 var bool v, f, m, a;
 v = true;
 f = false;
-m = v and f;
-a = v or f;
 
+print(v);
 print(m);
-print(a)
+print(f)
